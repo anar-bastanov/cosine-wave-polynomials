@@ -1,0 +1,1 @@
+# Cosine Wave Polynomials
